@@ -1,0 +1,18 @@
+ 2017-03-30 20:20:38,953 - DEBUG - Start of program
+-------------------
+ 2017-03-30 20:20:41,370 - DEBUG - User entered the value: heads
+And is type of: <class 'str'>
+ 2017-03-30 20:20:41,370 - DEBUG - Value for coin flip: 1
+And is type of: <class 'int'>
+ 2017-03-30 20:20:41,370 - DEBUG - Start if statement
+-------------------
+ 2017-03-30 20:20:41,370 - DEBUG - Guessed Wrong!
+ 2017-03-30 20:20:41,370 - DEBUG - User entered the value: heads
+And is type of: <class 'str'>
+ 2017-03-30 20:20:41,370 - DEBUG - Value for coin flip: 1
+And is type of: <class 'int'>
+ 2017-03-30 20:20:44,088 - DEBUG - Guessed Wrong Again!
+ 2017-03-30 20:20:44,088 - DEBUG - User entered the value: tails
+And is type of: <class 'str'>
+ 2017-03-30 20:20:44,088 - DEBUG - Value for coin flip: 1
+And is type of: <class 'int'>
